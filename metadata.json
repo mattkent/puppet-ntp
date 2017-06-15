@@ -1,0 +1,15 @@
+{
+  "name": "mattkent-ntp",
+  "version": "0.1.0",
+  "author": "mattkent",
+  "summary": "Thsi moduel will manage NTP.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/mattkent/puppet-ntp.git",
+  "project_page": "https://github.com/mattkent/puppet-ntp",
+  "issues_url": "https://github.com/mattkent/puppet-ntp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
